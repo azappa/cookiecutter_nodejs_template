@@ -1,0 +1,6 @@
+{
+  "author": "Alessio Zappa",
+  "email": "alessioedoardozappa+github@gmail.com",
+  "project_name": "NodeJS Project",
+  "project_slug": "{{ cookiecutter.project_name|lower|replace(' ', '-') }}"
+}
